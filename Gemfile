@@ -15,6 +15,8 @@ end
 
 gem 'jquery-rails', '2.0.0'
 
+#??? are the following needed?
+
 ruby '1.9.3'
 
 gem "heroku"
